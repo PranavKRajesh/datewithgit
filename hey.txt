@@ -1,4 +1,10 @@
-[33mcommit f76ef2fc4d1650a49aa7d570c0f95ed2d09078e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+[33mcommit 2a1d17591b02af6889e5b9ff004e81ca9f900f9f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Pranav K R <pranavkrajesh@gmail.com>
+Date:   Fri Jul 4 16:24:12 2025 +0530
+
+    hey changed
+
+[33mcommit f76ef2fc4d1650a49aa7d570c0f95ed2d09078e7[m
 Author: Pranav K R <pranavkrajesh@gmail.com>
 Date:   Fri Jul 4 16:13:52 2025 +0530
 
